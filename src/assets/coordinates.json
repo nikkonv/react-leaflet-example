@@ -1,0 +1,44 @@
+{
+  "places": [
+    {
+      "name": "Plaza de Armas - Talca",
+      "geometry": [-35.426812, -71.665965]
+    },
+    {
+      "name": "Centro Extensión UCM",
+      "geometry": [-35.423495, -71.667098]
+    },
+    {
+      "name": "Centro Extensión UTAL",
+      "geometry": [-35.424398, -71.666863]
+    },
+    {
+      "name": "Ilustre Municipalidad de Talca",
+      "geometry": [-35.425907, -71.665648]
+    },
+    {
+      "name": "Parroquia El Sagrario",
+      "geometry": [-35.426089, -71.6667]
+    },
+    {
+      "name": "Gobierno Regional del Maule",
+      "geometry": [-35.425866, -71.666429]
+    },
+    {
+      "name": "Edificio de Correos",
+      "geometry": [-35.426583, -71.665128]
+    },
+    {
+      "name": "Contraloría Regional del Maule",
+      "geometry": [-35.425466, -71.6672]
+    },
+    {
+      "name": "Segundo Juzgado de policía local Talca",
+      "geometry": [-35.426355, -71.666709]
+    },
+    {
+      "name": "Registro Civil e Identificación",
+      "geometry": [-35.427852, -71.66664]
+    }
+  ]
+}
